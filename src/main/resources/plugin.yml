@@ -1,0 +1,5 @@
+name: AstroHub
+version: ${project.version}
+main: AstroHub
+authors:
+  - nekoh
